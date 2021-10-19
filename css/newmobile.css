@@ -13,6 +13,12 @@ and (max-device-width : 480px) {
     padding-top: 40px;
 }
 
+.cardIm2 {
+
+    width: 347px !important;
+    margin-top: 88px !important;
+}
+
 .naming p {
     font-size: 16px !important;
 }
@@ -543,6 +549,11 @@ and (orientation : landscape) {
         font-size: 12px !important;
         padding: 0 50px !important;
     }
+
+    .cardIm2 {
+        width: 381px !important;
+        margin-top: 113px !important;
+    }
     .cardIm {
         width: 100%;
     }
@@ -666,6 +677,12 @@ only screen and (min-device-pixel-ratio : 1.5) {
     .img-col-solo img {
         height: auto;
         object-position: center;
+    }
+
+    .cardIm2 {
+        padding: 44px;
+        width: 445px;
+        margin-top: 88px;
     }
 
     .img-col img {

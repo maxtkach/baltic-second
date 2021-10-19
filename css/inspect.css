@@ -25,6 +25,22 @@
     margin: 0px !important;
 }
 
+.cardIm2 {
+    padding: 35px;
+}
+
+.dropdown-item {
+    font-size: 16px;
+    padding-top: 10px !important;
+    padding-bottom: 0px !important;
+    padding-left: 10px !important;
+}
+
+.dropdown-menu {
+    min-width: 303px;
+    height: 112px;
+}
+
 .naming p {
 
     font-family: "Montserrat", sans-serif;
@@ -39,8 +55,10 @@
     color: #000000;
 }
 
-.cardIm {
+.cardIm {}
 
+.n2 {
+    padding-top: 15%;
 }
 
 .buttonOrder {
@@ -69,7 +87,7 @@
 
     background: #3E4671;
     border-radius: 91px;
-    border:0px !important;
+    border: 0px !important;
 
     font-family: "Montserrat", sans-serif;
     font-style: normal;
