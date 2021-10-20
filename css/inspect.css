@@ -12,16 +12,18 @@
 }
 
 .naming h2 {
-    font-family: "Montserrat", sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
+    font-family: 'TacticSans-Bld', sans-serif;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 30px;
+    line-height: 76px;
+
+    color: #3E4671 !important;
     line-height: 173.9%;
     /* or 75px */
 
     letter-spacing: -0.02em;
 
-    color: #3E4671;
     margin: 0px !important;
 }
 
@@ -83,7 +85,7 @@
     margin-top: 30px;
     width: 200px;
     height: 64px;
-
+    margin-bottom: 20px;
 
     background: #3E4671;
     border-radius: 91px;

@@ -16,7 +16,11 @@ and (max-device-width : 480px) {
 .cardIm2 {
 
     width: 347px !important;
-    margin-top: 88px !important;
+    margin-top: 16px !important;
+}
+
+.n2 {
+    padding-top: 4% !important;
 }
 
 .naming p {
@@ -61,7 +65,8 @@ and (max-device-width : 480px) {
 }
 
 .naming h2{
-    font-size: 23px !important;
+    font-size: 20px !important;
+    line-height: 26px !important;
 }
 
 .logo2{
