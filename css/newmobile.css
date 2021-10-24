@@ -1,4 +1,16 @@
 /* Smartphones (portrait and landscape) ----------- */
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 480px) {
+
+
+    .cardIm2{
+        margin-left: 30px;
+    }
+
+}
+
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
@@ -65,7 +77,7 @@ and (max-device-width : 480px) {
 }
 
 .naming h2{
-    font-size: 20px !important;
+    font-size: 14px !important;
     line-height: 26px !important;
 }
 

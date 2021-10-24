@@ -56,15 +56,11 @@
 
     color: #000000;
 }
-
-.cardIm {}
-
 .n2 {
     padding-top: 15%;
 }
 
 .buttonOrder {
-    margin-bottom: 28px;
     width: 219px;
     height: 77px;
     margin-left: 15px;
@@ -78,7 +74,6 @@
     line-height: 173.9%;
     letter-spacing: -0.02em;
     color: #FFFFFF;
-    margin-top: 28px;
 }
 
 .buttonOrder2 {
