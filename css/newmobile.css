@@ -76,9 +76,10 @@ and (max-device-width : 480px) {
     color: #FFFFFF;
 }
 
-.naming h2{
-    font-size: 14px !important;
+.naming h2 {
+    font-size: 19px !important;
     line-height: 26px !important;
+    max-width: 276px;
 }
 
 .logo2{
