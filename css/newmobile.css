@@ -39,12 +39,13 @@ and (max-device-width : 480px) {
     font-size: 16px !important;
 }
 .oneCard {
-    margin-bottom: 46px !important;
+    margin-bottom: 40px !important;
     background: rgba(196, 196, 196, 0.2);
 }
 
 .buttonOrder {
-    margin-bottom: 46px !important;
+    margin-top: 0px !important;
+    margin-bottom: 40px !important;
     width: 171px !important;
     height: 57px !important;
     margin-left: 28px !important;
