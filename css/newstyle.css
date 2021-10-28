@@ -39,6 +39,7 @@ h1 {
 
 .navbar-brand {
   height: auto;
+
   margin-left: 5% !important;
 }
 
@@ -999,7 +1000,7 @@ figure {
   font-family: 'Montserrat', sans-serif !important;
   font-style: normal !important;
   font-weight: bold !important;
-  font-size: 45px;
+  font-size: 40px;
   line-height: 55px;
   text-align: center !important;
   letter-spacing: 0.155em ;
@@ -2277,9 +2278,18 @@ form label {
   color: #FFFFFF;
 }
 
+.dropdown-menu2 {
+  min-width: 153px !important;
+  height: 35px !important;
+}
+
 .logoz{
   opacity: 0;
   height:0px;
+}
+
+.di2{
+  font-size:17px !important;
 }
 
 .inspect {
@@ -2306,7 +2316,7 @@ form label {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 800;
-  font-size: 45px;
+  font-size: 42px;
   line-height: 61px;
   text-align: center;
   padding-top: 20px;

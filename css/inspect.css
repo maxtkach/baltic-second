@@ -32,7 +32,7 @@
 }
 
 .dropdown-item {
-    font-size: 16px;
+    font-size: 18px;
     padding-top: 10px !important;
     padding-bottom: 0px !important;
     padding-left: 10px !important;
@@ -62,7 +62,7 @@
 
 .buttonOrder {
     margin-top: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     width: 219px;
     height: 77px;
     margin-left: 15px;

@@ -25,6 +25,8 @@ and (max-device-width : 480px) {
     padding-top: 40px;
 }
 
+
+
 .cardIm2 {
 
     width: 347px !important;
@@ -194,6 +196,7 @@ and (max-device-width : 480px) {
 
 .sudno-txt p {
     font-size: 13px !important;
+    line-height: 19px !important;
 }
 
 .navbar-toggle{
