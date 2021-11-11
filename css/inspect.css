@@ -28,7 +28,8 @@
 }
 
 .cardIm2 {
-    padding: 35px;
+    padding: 18px;
+    padding-left: 45px;
 }
 
 .dropdown-item {
@@ -50,6 +51,7 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 173.9%;
+    max-width: 700px;
     /* or 49px */
 
     letter-spacing: -0.02em;
