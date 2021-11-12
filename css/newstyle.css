@@ -2311,6 +2311,10 @@ form label {
   padding-left: 10px !important;
 }
 
+.di3{
+  font-size:18px !important;
+}
+
 .inspect {
   height: auto;
   background: #EEEEEE;
@@ -2332,6 +2336,11 @@ form label {
 .dropdown-menu {
   min-width: 303px;
   height: 112px;
+}
+
+.dropdown-item{
+  font-size: 14px ;
+  padding-left: 10px !important;
 }
 
 
